@@ -9,7 +9,7 @@
 
 ### Listening now on Spotify 🎧
 
-[<img src="https://novatorem-chi-seven.vercel.app/api/spotify-playing" alt="I'm now listening to" width="350" />](https://open.spotify.com/user/gww9yh6bijuhemxutf1j1yjdc)
+[<img src="https://novatorem-bm7c5qrlx-termissues.vercel.app/api/spotify-playing" alt="I'm now listening to" width="350" />](https://open.spotify.com/user/gww9yh6bijuhemxutf1j1yjdc)
 
 ### Connect with me:
 
