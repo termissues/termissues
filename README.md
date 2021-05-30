@@ -33,16 +33,15 @@
 
 ---
 
-### 📕 Development Breakdown
+### 📊 Coding Stats
 
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-![Term's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=termissues)
 
-### 📕 Github Stats
+### ⭐ Github Stats
 
 <img align="left" alt="Term's Github Stats" src="https://github-readme-stats.vercel.app/api?username=termissues&show_icons=true&hide_border=true" />
 
