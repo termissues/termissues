@@ -35,6 +35,9 @@
 
 ### 📕 Github Stats
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=termissues)](https://github.com/termissues/github-readme-stats)
+
+
 <img align="left" alt="Term's Github Stats" src="https://github-readme-stats.vercel.app/api?username=termissues&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/termissues
