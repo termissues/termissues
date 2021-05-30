@@ -33,10 +33,9 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Github Stats
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<img align="left" alt="Term's Github Stats" src="https://github-readme-stats.vercel.app/api?username=termissues&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/termissues
 [instagram]: https://instagram.com/bycasparas
