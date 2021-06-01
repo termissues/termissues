@@ -1,9 +1,9 @@
-### Hi there, I'm Term <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Oh, hey.">
+### Hi there, I'm Term 👋
 
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=termissues&repo=github-visitors-badge&countColorcountColor&countColor=orange)
 [![Twitter Follow](https://img.shields.io/twitter/follow/termissues?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftermissues&screen_name=termissues)
 ## A Little bit about me:
- 
+
 - 🌴 I’m currently making a better version of ZIP FM Discord bot
 - 👨‍💻 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Make more Open Source projects
@@ -28,12 +28,15 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/733/733553.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+<img align="left" alt="Arduino" width="26px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
 <br />
 <br />
 
----
-
+<details>
+<summary>
+ Click here to see my Stats 
+</summary>
+ 
 ### 📊 Coding Stats
 
 <!--START_SECTION:waka-->
@@ -49,5 +52,7 @@ Markdown     3 mins          █░░░░░░░░░░░░░░░░
 
 <img align="left" alt="Term's Github Stats" src="https://github-readme-stats.vercel.app/api?username=termissues&show_icons=true&hide_border=true" />
 
+</details>
+ 
 [twitter]: https://twitter.com/termissues
 [instagram]: https://instagram.com/bycasparas
