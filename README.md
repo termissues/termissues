@@ -5,7 +5,7 @@
 ## A Little bit about me:
 
 - 🌴 I’m currently making a better version of ZIP FM Discord bot
-- 👨‍💻 I’m looking to collaborate with other content creators
+- 👨‍💻 I’m looking to collaborate with other people on projects
 - 🥅 2021 Goals: Make more Open Source projects
 
 ### Listening now on Spotify 🎧
