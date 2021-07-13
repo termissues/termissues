@@ -4,8 +4,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/termissues?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftermissues&screen_name=termissues)
 ## A Little bit about me:
 
-- 🌴 I’m currently making a better version of ZIP FM Discord bot
-- 👨‍💻 I’m looking to collaborate with other people on projects
+- 🌴 I’m currently learning more about JavaScript
+- 👨‍💻 I’m looking to collaborate with other programmers
 - 🥅 2021 Goals: Make more Open Source projects
 
 ### Listening now on Spotify 🎧
