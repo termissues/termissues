@@ -8,7 +8,7 @@
 - 👨‍💻 I’m looking to collaborate with other programmers
 - 🥅 2021 Goals: Make more Open Source projects
 
-### Listening now on Spotify 🎧
+### Listening on Spotify 🎧
 
 [![Spotify](https://novatorem-bm7c5qrlx-termissues.vercel.app/api/spotify)](https://open.spotify.com/user/gww9yh6bijuhemxutf1j1yjdc)
 
