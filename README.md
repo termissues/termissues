@@ -6,7 +6,7 @@
 
 - 🌴 I’m currently trying to multi-task all crap i have to do
 - 👨‍💻 I’m looking to collaborate with other programmers
-- 🥅 2021 Goals: Make more Open Source projects
+- 🥅 2022 Goals: Make more Open Source projects
 
 ### Listening on Spotify 🎧
 
